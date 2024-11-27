@@ -1,7 +1,7 @@
 <template>
   <div class="home">
     <img class="" alt="Vue logo" src="../assets/logo.png">
-    <HelloWorld msg="BIENVENIDOS A LA TAREA DE APLICACION CON VUE"/>
+    <HelloWorld msg="BIENVENIDO A TU GESTOR DE TAREAS"/>
   </div>
 </template>
 

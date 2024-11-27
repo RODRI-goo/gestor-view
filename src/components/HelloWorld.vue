@@ -5,11 +5,11 @@
       Esta aplicación te permite gestionar tus tareas de manera eficiente. Puedes añadir nuevas <br> 
       tareas manualmente o extraerlas desde una API.    
     </p>
-    <h3>Secciones de la aplicacion</h3><br>
+    <h3>SECCIONES</h3><br>
     <ul>
-      <li><strong>Agregar Tarea:</strong> Permite ingresar nuevas tareas manualmente.</li><br><br>
-      <li><strong>Listar de Tareas:</strong> Muestra todas las tareas extraídas desde la API, permitiendo marcarlas como completadas o eliminarlas.</li><br><br>
-      <li><strong>Vista Combinada:</strong>Combina las funcionalidades de añadir tareas manualmente y ver las tareas de la API al mismo tiempo.</li>      
+      <li><strong>AÑADIR TAREAS:</strong> Permite ingresar nuevas tareas manualmente.</li><br><br>
+      <li><strong>LISTAR TAREAS:</strong> Muestra todas las tareas extraídas desde la API, permitiendo marcarlas como completadas o eliminarlas.</li><br><br>
+      <li><strong>VISTA COMBINADA:</strong>Combina las funcionalidades de añadir tareas manualmente y ver las tareas de la API al mismo tiempo.</li>      
     </ul>   
   </div>
 </template>
@@ -28,7 +28,7 @@ export default {
 h3 {
   margin: 40px 0 0;
   font-weight: bold;
-  color: rgb(44, 8, 163);
+  color: rgb(142, 8, 163);
 }
 ul {
   list-style-type: none;
@@ -39,7 +39,7 @@ li {
   margin: 0 10px;
 }
 h1 {
-  color: rgb(4, 4, 57);
+  color: rgb(66, 6, 87);
   font-weight: bold;
 }
 </style>
