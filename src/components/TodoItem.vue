@@ -31,6 +31,7 @@
             <button @click="$emit('delTodo')">
                 Eliminar
             </button>
+         
         </div>
     </div>
 </template>
