@@ -41,7 +41,7 @@
             </li>
         </ul>
 
-        <p v-else class="text-center text-muted">No hay tareas disponibles...</p>
+        <p v-else class="text-center text-muted">No hay tareas cargadas...</p>
     </div>
 </template>
 

@@ -26,7 +26,7 @@
             </li>
             <li class="nav-item">
               <router-link class="nav-link" to="/combinedview">
-                <i class="bi bi-table"></i> Lista combinada
+                <i class="bi bi-table"></i> LISTA COMBINADA
               </router-link>
             </li>
           </ul>        

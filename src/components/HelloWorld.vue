@@ -1,6 +1,6 @@
 <template>
   <div class="hello">
-    <h1 >{{ msg }}</h1>
+    <h1 >{{ msg }}</h1><br>
     <p>
       Esta aplicación te permite gestionar tus tareas de manera eficiente. Puedes añadir nuevas <br> 
       tareas manualmente o extraerlas desde una API.    
